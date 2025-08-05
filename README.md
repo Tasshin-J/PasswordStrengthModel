@@ -1,0 +1,1 @@
+This project is a machine learning-based analysis of different models for classifying password strength. It trains and compares multiple algorithms using the Password Strength Classifier Dataset from Kaggle.
